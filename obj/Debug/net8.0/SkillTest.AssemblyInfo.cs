@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkillTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74b1a7223266a0c92976bbf0399f92686ca4bd3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkillTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkillTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
