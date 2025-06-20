@@ -1,6 +1,6 @@
 # Showcase API App (.NET 8)
 
-This is a simple CRUD-style web application built with .NET 8. It allows users to:
+This is a simple CRUD-style API application built with .NET 8. It allows users to:
 
 - Create new tasks and users
 - View all tasks and users
