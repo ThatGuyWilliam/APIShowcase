@@ -32,9 +32,7 @@ This is a simple CRUD-style web application built with .NET 8. It allows users t
    - Open `appsettings.json`
    - Update the connection string in the `ConnectionStrings` section with your SQL Server details:
      ```json
-     "ConnectionStrings": {
-  "LocalDB": "Server=IP;Database=SkillDB;Trusted_Connection=True;TrustServerCertificate=True"
-},
+     "ConnectionStrings": { "LocalDB": "Server=PC;Database=SkillDB;Trusted_Connection=True;TrustServerCertificate=True"},
      ```
 
 3. **Apply EF Migrations**
